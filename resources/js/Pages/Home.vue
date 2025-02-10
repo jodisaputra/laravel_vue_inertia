@@ -1,7 +1,6 @@
 <template>
-    <div>
-        <h1>Hllo</h1>
-    </div>
+    <h1 class="text-4xl">Home</h1>
 </template>
-<script setup lang="ts">
+<script setup>
+
 </script>
